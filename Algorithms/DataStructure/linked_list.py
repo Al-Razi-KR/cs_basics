@@ -16,7 +16,6 @@ class Node(object):
     def set_next(self, next):
         self.next = next
 
-
 class LinkedList(object):
     def __init__(self, head=None):
         self.head =  head
@@ -35,7 +34,7 @@ class LinkedList(object):
 
     def deleteAt(self, idx):
         if idx > self.count-1:
-            return 
+            return None
 
     def dump_list(self):
         tempnode = self.head
