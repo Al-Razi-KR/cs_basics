@@ -13,8 +13,8 @@ def gcd(a, b):
         t, a = a, b
         b = t % b
     return a
-    
 
+    
 def test_samplets():
     print(f"Answer: 12; Result: {gcd(60, 96)}") # should return 12
     print(f"Answer: 21; Result: {gcd(21, 42)}") # should return 21
