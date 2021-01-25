@@ -5,7 +5,7 @@ Decision tree learning is one of the predictive modelling approaches used in sta
 <br/>
 <br/>
 
-![alt text](https://devopedia.org/images/article/168/2041.1555312516.png)
+![alt Example](https://devopedia.org/images/article/168/2041.1555312516.png)
 
 ## References
 https://www.kaggle.com/dmilla/introduction-to-decision-trees-titanic-dataset

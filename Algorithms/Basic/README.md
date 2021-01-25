@@ -36,3 +36,17 @@ A process or set of rules to be followed in calculations or other problem-solvin
 <li>Filter</li>
 <li>Navigate</li>
 </ul>
+
+## Understading Algorithm Performance
+
+<b> Measure how an algorithm responds to dataset size</b>
+
+<b>Big-O notation</b>
+<ul>
+<li>Classifies performance as the input size grows</li>
+<li>"O" indicates the order of operation: time scale to perform an operation</li>
+</ul>
+
+# Common Big-O Terms
+
+![alt big-o-image](https://miro.medium.com/max/4080/1*Uzrw9faXdYgg20I6NjUTBw.png)
