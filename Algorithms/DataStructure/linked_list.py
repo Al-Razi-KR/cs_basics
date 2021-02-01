@@ -9,7 +9,7 @@ class Node(object):
 
     def set_data(self, val):
         self.val = val
-        
+
     def get_next(self):
         return self.next
 
